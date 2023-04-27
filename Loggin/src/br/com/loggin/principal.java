@@ -11,6 +11,7 @@ public class principal {
 		try {
 			Log meuLogger = new Log("Log.txt");
 			meuLogger.logger.setLevel(Level.FINE);
+			//meuLogger.logger.setLevel(Level.WARNING);
 			meuLogger.logger.info("Log de informação");
 			meuLogger.logger.warning("Log de Aviso");
 			meuLogger.logger.severe("Log Severo");
@@ -21,7 +22,22 @@ public class principal {
 
 		}
 		
+		//profiling
+	    //metodoRuim();
+		
 	}
 	
+	/*public static void metodoRuim() throws InterruptedException
+	{
+		String texto = "teste teste teste ";
+		
+		for (int i = 0; i < 15000; i++) 
+		{
+			texto += "texto " + i + " texto " + UUID.randomUUID().toString();
+			Thread.sleep(1000);
+		}
+		
+		System.out.println(texto);
+	} */
 
 }

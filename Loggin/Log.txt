@@ -1,6 +1,36 @@
-out. 10, 2022 5:48:17 PM br.com.loggin.principal main
+abr. 27, 2023 8:31:51 AM br.com.loggin.principal main
 INFORMAÇÕES: Log de informação
-out. 10, 2022 5:48:17 PM br.com.loggin.principal main
+abr. 27, 2023 8:31:51 AM br.com.loggin.principal main
 ADVERTÊNCIA: Log de Aviso
-out. 10, 2022 5:48:17 PM br.com.loggin.principal main
+abr. 27, 2023 8:31:51 AM br.com.loggin.principal main
+GRAVE: Log Severo
+abr. 27, 2023 8:32:56 AM br.com.loggin.principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 8:32:56 AM br.com.loggin.principal main
+GRAVE: Log Severo
+abr. 27, 2023 6:38:14 PM br.com.loggin.principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 6:38:14 PM br.com.loggin.principal main
+GRAVE: Log Severo
+abr. 27, 2023 6:38:27 PM br.com.loggin.principal main
+INFORMAÇÕES: Log de informação
+abr. 27, 2023 6:38:27 PM br.com.loggin.principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 6:38:27 PM br.com.loggin.principal main
+GRAVE: Log Severo
+abr. 27, 2023 7:16:55 PM br.com.loggin.principal main
+INFORMAÇÕES: Log de informação
+abr. 27, 2023 7:16:55 PM br.com.loggin.principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 7:16:55 PM br.com.loggin.principal main
+GRAVE: Log Severo
+abr. 27, 2023 7:17:23 PM br.com.loggin.principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 7:17:23 PM br.com.loggin.principal main
+GRAVE: Log Severo
+abr. 27, 2023 7:17:42 PM br.com.loggin.principal main
+INFORMAÇÕES: Log de informação
+abr. 27, 2023 7:17:42 PM br.com.loggin.principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 7:17:42 PM br.com.loggin.principal main
 GRAVE: Log Severo
