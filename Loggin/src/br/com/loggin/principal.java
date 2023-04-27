@@ -21,22 +21,7 @@ public class principal {
 
 		}
 		
-		//profiling
-	    //metodoRuim();
-		
 	}
 	
-	/*public static void metodoRuim() throws InterruptedException
-	{
-		String texto = "teste teste teste ";
-		
-		for (int i = 0; i < 15000; i++) 
-		{
-			texto += "texto " + i + " texto " + UUID.randomUUID().toString();
-			Thread.sleep(1000);
-		}
-		
-		System.out.println(texto);
-	} */
 
 }
